@@ -17,7 +17,7 @@
 **McAfee Total Protection** is a top-tier, comprehensive cybersecurity suite designed to protect all aspects of your digital life. It goes beyond traditional antivirus by integrating multiple layers of defense for your **PC, Mac, smartphone, and tablet**. With **McAfee Total Protection premium**, users gain access to real-time threat detection, a secure VPN for online privacy, a robust password manager, and identity theft protection services. This all-in-one solution is built to guard against viruses, malware, ransomware, phishing attacks, and other online threats, ensuring your personal data and financial information remain secure. Its cross-platform compatibility and user-friendly management console make it an ideal choice for families and individuals seeking robust, hassle-free security.
 
 <p align="center">
-  <img src="https://www.av-test.org/fileadmin/tx_avtestreports/images/img_203117.png" alt="McAfee Total Protection Dashboard"/>
+  <img src="https://cdn.mos.cms.futurecdn.net/vET2KTbjZo5UmozE5zKjVJ.jpg" alt="McAfee Total Protection Dashboard"/>
 </p>
 
 ---
